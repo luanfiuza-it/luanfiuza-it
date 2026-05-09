@@ -28,7 +28,7 @@ Com formação técnica em Análise e Desenvolvimento de Sistemas (ADS), sou alu
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/luanfiuza-it](https://www.linkedin.com/in/luanfiuza-it)
+- **LinkedIn:** [linkedin.com/in/luanfiuza-it](www.linkedin.com/in/luan-fiuza-it)
 - **Email:** luanfiuza.it@gmail.com
 
 ---
