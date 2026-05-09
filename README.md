@@ -21,7 +21,7 @@ Com formação técnica em Análise e Desenvolvimento de Sistemas (ADS), sou alu
 ### 📚 Portfólio de Estudos & Projetos
 
 *   **[Estudos de Redes (Cisco)](https://github.com/luanfiuza-it/estudos-redes-cisco):** Laboratórios de roteamento, protocolos OSI e IPv4.
-*   **[Aprendizado continuo]():** Minhas anotações diárias em guias rápidos de tecnologia.
+*   **[Aprendizado continuo](https://github.com/luanfiuza-it/aprendizado-continuo/tree/main):** Minhas anotações diárias em guias rápidos de tecnologia.
 *   **[Meu game]():** Notas técnicas sobre a criação do meu jogo em GDScript.
 
 ---
