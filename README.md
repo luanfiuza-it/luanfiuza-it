@@ -8,8 +8,6 @@ Com formação técnica em Análise e Desenvolvimento de Sistemas (ADS), sou alu
 
 ---
 
-### 🛠 Minhas Tecnologias e Ferramentas
-
 ### 🛠 Tecnologias em Foco
 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
