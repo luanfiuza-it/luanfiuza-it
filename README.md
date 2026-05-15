@@ -14,6 +14,8 @@ Com formação técnica em Análise e Desenvolvimento de Sistemas (ADS), sou alu
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ![Godot](https://img.shields.io/badge/Godot-478CB5?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
