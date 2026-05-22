@@ -20,11 +20,13 @@ Com formação técnica em Análise e Desenvolvimento de Sistemas (ADS), sou alu
 
 ---
 
-### 📚 Portfólio de Estudos & Projetos
+### 📚 Portfólio, Estudos & Projetos
 
+*   **[what-movie-is-this](https://github.com/luanfiuza-it/what-movie-is-this):** Uma aplicação web interativa e dinâmica para descoberta e consulta de filmes.
 *   **[Estudos de Redes (Cisco)](https://github.com/luanfiuza-it/estudos-redes-cisco):** Laboratórios de roteamento, protocolos OSI e IPv4.
 *   **[Aprendizado continuo](https://github.com/luanfiuza-it/aprendizado-continuo/tree/main):** Minhas anotações diárias em guias rápidos de tecnologia.
 *   **[Meu game]():** Notas técnicas sobre a criação do meu jogo em GDScript.
+
 
 ---
 
