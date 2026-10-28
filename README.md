@@ -1,6 +1,6 @@
 # Olá, me chamo Luan Fiuza👋
 
-### Estudante de Cibersegurança | Técnico em ADS | Suporte Técnico
+### Estudante de Cibersegurança | Desenvolvimento de Sistemas | Suporte Técnico e Help Desk
 
 Trajetória prática em hardware e eletrônica iniciada aos 14 anos. Atualmente, trabalho com diagnósticos especializados em sistemas automotivos, utilizando lógica analítica e scanners para interpretar dados complexos e falhas em módulos integrados.
 
@@ -27,7 +27,7 @@ Com formação técnica em Análise e Desenvolvimento de Sistemas (ADS), sou alu
 *   **[What Movie Is This](https://github.com/luanfiuza-it/what-movie-is-this):** Uma aplicação web interativa e dinâmica para descoberta e consulta de filmes.
 *   **[Estudos de Redes (Cisco)](https://github.com/luanfiuza-it/estudos-redes-cisco):** Laboratórios de roteamento, protocolos OSI e IPv4.
 *   **[Aprendizado continuo](https://github.com/luanfiuza-it/aprendizado-continuo/tree/main):** Minhas anotações diárias em guias rápidos de tecnologia.
-*   **[Meu game]():** Notas técnicas sobre a criação do meu jogo em GDScript.
+*   **[Meu game](https://github.com/luanfiuza-it/meu-game-plataforma-2d):** Notas técnicas sobre a criação do meu jogo em GDScript.
 
 
 ---
